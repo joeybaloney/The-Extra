@@ -1,7 +1,7 @@
 all:
-	latex -interaction=errorstopmode --output-directory=aux extra
-	latex -interaction=errorstopmode --output-directory=aux extra
-	mv aux/extra.dvi extra.dvi
-	dvipdfm extra
-	rm extra.dvi
-	cp extra.pdf /srv/www/xamuel.com/cards/papers/tmp/extra.pdf
+	latex -interaction=errorstopmode --output-directory=aux novel
+	latex -interaction=errorstopmode --output-directory=aux novel
+	mv aux/novel.dvi novel.dvi
+	dvipdfm novel
+	rm novel.dvi
+	cp novel.pdf /srv/www/xamuel.com/cards/papers/tmp/novel.pdf
