@@ -1,0 +1,110 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.8.14)  25 OCT 2014 01:10
+entering extended mode
+ %&-line parsing enabled.
+**extra
+(./extra.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (aux/extra.aux)
+\openout1 = `extra.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+ [1
+
+
+]
+Chapter 1.
+[1
+
+] [2]
+Chapter 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 124.
+[3
+
+] [4]
+Chapter 3.
+[5
+
+] [6]
+Chapter 4.
+[7
+
+] [8]
+Chapter 5.
+
+Overfull \hbox (0.38026pt too wide) in paragraph at lines 371--373
+[]\OT1/cmr/m/n/10 ``If that's the case,'' chor-tled Judge, ``Kafka should've ha
+nged him-self. Prefer-
+ []
+
+[9
+
+] [10]
+Chapter 6.
+[11
+
+]
+Overfull \hbox (1.03653pt too wide) in paragraph at lines 503--506
+[]\OT1/cmr/m/n/10 ``Stop!'' cried the chief, boil-ing with rage. ``Never have I
+ heard such damnable
+ []
+
+[12]
+Chapter 7.
+[13
+
+] [14] [15]
+Chapter 8.
+[16
+
+] [17] (aux/extra.aux) ) 
+Here is how much of TeX's memory you used:
+ 266 strings out of 495062
+ 2818 string characters out of 1182644
+ 51474 words of memory out of 3000000
+ 3514 multiletter control sequences out of 15000+50000
+ 9199 words of font info for 32 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 23i,8n,19p,160b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on aux/extra.dvi (18 pages, 42256 bytes).
