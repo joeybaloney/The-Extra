@@ -9,3 +9,10 @@ writing group on 21Sept2014 (I think--if not, one of the adjacent fortnights).  
 incrementally.  "The Bus Stop" is partly based on material from the same writing session which inspired Part I in the first
 place (and is also very vaguely based on a real life event in my life).  The last change (24Oct2014) before putting the project on Github
 was to make the presiding judge's gavel be a "silver hammer".
+
+Concerning the artwork:
+The cover image (also titled "The Extra") is my original creation, partly using artwork licensed from vectorstock.com.
+To be specific, I licensed a joker card (not inverted yet) and a fancy letter "J".  The background yin-yang was created
+from scratch.  The art was done using inkscape, sometime in mid-late October 2014.
+
+All other artwork is licensed from vectorstock.com.
