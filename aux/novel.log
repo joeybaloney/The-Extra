@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.8.14)  25 OCT 2014 01:15
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.8.14)  3 DEC 2014 21:44
 entering extended mode
  %&-line parsing enabled.
 **novel
@@ -80,116 +80,97 @@ File: yydiv.eps Graphic file (type eps)
 
 ]
 Chapter 1.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [2
+[2
 
 ] [3]
 Chapter 2.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 194.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 194.
- [4
+[4
 
 ] [5]
 Chapter 3.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [6
+[6
 
 ] [7]
 Chapter 4.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [8
 
-] [9]
-Chapter 5.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps>
-Overfull \hbox (0.38026pt too wide) in paragraph at lines 496--498
+Overfull \hbox (0.38026pt too wide) in paragraph at lines 407--409
 []\OT1/cmr/m/n/10 ``If that's the case,'' chor-tled Judge, ``Kafka should've ha
 nged him-self. Prefer-
  []
 
-[10
+[8
 
-] [11] [12]
-Chapter 6.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [13
+] [9] [10]
+Chapter 5.
+[11
 
 ]
-Overfull \hbox (1.03653pt too wide) in paragraph at lines 671--674
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 577.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 577.
+
+Overfull \hbox (1.03653pt too wide) in paragraph at lines 579--582
 []\OT1/cmr/m/n/10 ``Stop!'' cried the chief, boil-ing with rage. ``Never have I
  heard such damnable
  []
 
-[14] [15
+[12] [13
 
 ]
+Chapter 6.
+[14
+
+] [15] [16]
 Chapter 7.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [16
+[17
 
-] [17] [18]
-Chapter 8.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [19
-
-] [20]
+] [18]
 File: yydiv.eps Graphic file (type eps)
  <yydiv.eps>
 File: slashdiv.eps Graphic file (type eps)
- <slashdiv.eps> [21
+ <slashdiv.eps> [19
 
 ]
+Chapter 8.
+[20
+
+] [21]
 Chapter 9.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [22
+[22
 
-] [23]
+] [23] [24]
 Chapter 10.
-File: ulcornerstenotebook.eps Graphic file (type eps)
-<ulcornerstenotebook.eps> [24
+[25
 
-] [25] [26]
+]
 Chapter 11.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [27
+[26
 
 ]
 Chapter 12.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [28
+[27
 
-]
+] [28]
 Chapter 13.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [29
+[29
 
 ] [30]
 Chapter 14.
-File: ulcornerjudgedream.eps Graphic file (type eps)
-<ulcornerjudgedream.eps> [31
+[31
 
-] [32]
+] [32] [33]
 Chapter 15.
-File: ulcorner1.eps Graphic file (type eps)
-<ulcorner1.eps> [33
+[34
 
-] [34] [35]
-Chapter 16.
-[36
-
-] [37] (aux/novel.aux) ) 
+] [35] (aux/novel.aux) ) 
 Here is how much of TeX's memory you used:
- 565 strings out of 495062
- 6630 string characters out of 1182644
+ 559 strings out of 495062
+ 6514 string characters out of 1182644
  59943 words of memory out of 3000000
- 3795 multiletter control sequences out of 15000+50000
+ 3792 multiletter control sequences out of 15000+50000
  5849 words of font info for 21 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  25i,7n,19p,208b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on aux/novel.dvi (38 pages, 99800 bytes).
+Output written on aux/novel.dvi (36 pages, 94808 bytes).
